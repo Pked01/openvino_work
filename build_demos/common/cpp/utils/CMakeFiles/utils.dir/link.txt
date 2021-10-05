@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../intel64/Release/lib/libutils.a  CMakeFiles/utils.dir/src/args_helper.cpp.o CMakeFiles/utils.dir/src/images_capture.cpp.o CMakeFiles/utils.dir/src/kuhn_munkres.cpp.o CMakeFiles/utils.dir/src/performance_metrics.cpp.o
+/usr/bin/ranlib ../../../intel64/Release/lib/libutils.a

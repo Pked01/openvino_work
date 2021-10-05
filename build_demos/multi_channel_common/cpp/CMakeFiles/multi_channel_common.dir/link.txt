@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../intel64/Release/lib/libmulti_channel_common.a  CMakeFiles/multi_channel_common.dir/decoder.cpp.o CMakeFiles/multi_channel_common.dir/graph.cpp.o CMakeFiles/multi_channel_common.dir/input.cpp.o CMakeFiles/multi_channel_common.dir/output.cpp.o CMakeFiles/multi_channel_common.dir/perf_timer.cpp.o CMakeFiles/multi_channel_common.dir/threading.cpp.o
+/usr/bin/ranlib ../../intel64/Release/lib/libmulti_channel_common.a

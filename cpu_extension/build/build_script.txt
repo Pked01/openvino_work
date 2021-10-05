@@ -1,0 +1,2 @@
+cmake -DInferenceEngine_DIR=[IE_DIR] -Dngraph_DIR=[NGRAPH_DIR] ../
+cmake --build .
